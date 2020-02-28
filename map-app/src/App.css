@@ -1,0 +1,30 @@
+#marker{
+  color: #61dafb;
+  height: 5vh;
+  width: 10vw
+}
+
+#button{
+  height: auto;
+  width: auto;
+}
+
+#level_down{
+  height: 5vh;
+  width: 10vw;
+}
+
+#level_up{
+  height: 5vh;
+  width: 10vw;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
